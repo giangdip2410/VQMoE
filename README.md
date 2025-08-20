@@ -27,7 +27,7 @@ bash script/table1/transformer_xl/get_data.sh
 ```
 
 
-##### Pretraining Transformer-XL on Enwik8 and Wikitext103: 
+##### Pretraining Transformer-XL on four datasets: 
 
 ``` # Enwik8 dataset: 
 bash script/table1/transformer_xl/vqmoe/base/enwik8_vqmoe.sh
